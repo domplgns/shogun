@@ -15,7 +15,7 @@ body {
 }
 header{
 	width: 100%;
-	background: #fcece1;
+	background: #ffffff;
 	display: flex;
     height: 80px;
     color: #4F5665;
@@ -197,5 +197,4 @@ footer {
 height:80px; 
 width:100%;
 display: block;
-background: #fcece1;
 }
